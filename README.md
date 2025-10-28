@@ -5,7 +5,7 @@ Ela permite ao usuário realizar operações básicas como adição e subtraçã
 
 O projeto foi criado com foco em aprendizado, sendo uma ótima introdução à programação em Python, interfaces gráficas e conceitos de orientação a objetos.
 
-<h1> Tecnologias Utilizadas</h1>
+<h2> Tecnologias Utilizadas</h2>
 
 Python 3.x
 
@@ -22,3 +22,5 @@ No terminal, navegue até a pasta do projeto.
 Execute o programa:
 
 python calculadora.py
+
+#soft-grafico.py
